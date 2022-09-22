@@ -21,7 +21,7 @@ public class Challange2 {
     List<int> evenNumbers = new List<int>();
 
     public int FindTheSum(int n1, int n2) {
-        for (i = 0; i < 34; ++i) // Starts from 2 because 0 and 1 are declared as parameters when calling the function  
+        for (i = 2; i < 34; ++i) // Starts from 2 because 0 and 1 are declared as parameters when calling the function  
         {
             n3 = n1 + n2;
             Console.Write(n3 + " ");

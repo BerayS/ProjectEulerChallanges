@@ -43,6 +43,14 @@
             "DocumentFormat.OpenXml": {
               "target": "Package",
               "version": "[2.18.0, )"
+            },
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
